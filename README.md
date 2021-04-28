@@ -8,7 +8,7 @@ This project has two components:
 ## Files
 * **[jupyter_version-1.ipynb](https://github.com/chaniyam17/bitcoin-data-analysis/blob/main/jupyter_version-1.ipynb)**: python script for retrieving, cleaning, and visualizing data
 * **[jupyter_version-1.pdf](https://github.com/chaniyam17/bitcoin-data-analysis/blob/main/jupyter_version-1.pdf)**: jupyter notebook exported as pdf
-* **[jupyter_version-1.htm](https://github.com/chaniyam17/bitcoin-data-analysis/blob/main/jupyter_version-1.html)l**: jupyter notebook exported as html
+* **[jupyter_version-1.html](https://github.com/chaniyam17/bitcoin-data-analysis/blob/main/jupyter_version-1.html)l**: jupyter notebook exported as html
 * /graphs
     * **[BTCUSD - Coinbase](https://github.com/chaniyam17/bitcoin-data-analysis/blob/main/graphs/BTCUSD%20Coinbase.pdf)**: Hourly candlesticks for BTC/USD on Coinbase
     * **[BTCUSD - Gemini](https://github.com/chaniyam17/bitcoin-data-analysis/blob/main/graphs/BTCUSD%20-%20Gemini.pdf)**: Hourly candlesticks for BTC/USD on Gemini
